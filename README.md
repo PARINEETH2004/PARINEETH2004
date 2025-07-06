@@ -83,14 +83,23 @@
 ## 🎶 ~ 𝓛𝓲𝓼𝓽𝓮𝓷 𝓽𝓸 𝓶𝔂 𝓿𝓲𝓫𝓮 ~ 🎶
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=YV2SUQfZs2A" target="_blank">
-    <img src="https://img.shields.io/badge/Now_Playing-Electric_Callboy_Techno_Train-ff69b4?style=for-the-badge" />
+  <!-- Resized thumbnail image only -->
+  <a href="https://youtu.be/h1HuGYXbTuU?feature=shared" target="_blank">
+    <img 
+      src="https://i.ytimg.com/vi/FVs0gJ6Wex8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCclecTqZx-jO-UikNB7eqRBZhd6A" 
+      alt="Lo-fi Study Session Thumbnail"
+      width="350px"
+      style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);" />
   </a>
+
   <br><br>
+
+  <!-- Anime music GIFs -->
   <img src="https://media.tenor.com/nqV6kK3c9V0AAAAC/music-anime.gif" width="250px" />
   <img src="https://media.tenor.com/uWYqArL2yZ0AAAAC/listening-music-anime.gif" width="250px" />
   <img src="https://media.tenor.com/P_LU8Xl9uAkAAAAC/anime-music.gif" width="250px" />
 </div>
+
 
 ---
 
