@@ -1,3 +1,7 @@
+<!-- Anime Masterhead Banner -->
+<div align="center">
+  <img src="https://backiee.com/static/wallpapers/1920x1080/396529.jpg" alt="Anime Masterhead Banner" width="100%" />
+</div>
 <h1 align="center">~ 🌸 𝓗𝓮𝓵𝓵𝓸, 𝓘'𝓶 𝓟𝓪𝓻𝓲𝓷𝓮𝓮𝓽𝓱 𝓡𝓪𝓳 𝓢𝓲𝓶𝓱𝓪 🌸 ~</h1>
 <h3 align="center">A frontend dev who dreams in code and glows in anime vibes ✨</h3>
 
@@ -8,8 +12,9 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/parineeth2004/parineeth2004/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/parineeth2004/parineeth2004/output/snake.svg" width="1500" alt="Snake animation" />
 </div>
+
 
 ---
 
@@ -28,22 +33,18 @@
 
 ## 🌸 ~ 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮 ~ 🌸
 
-<img align="right" src="https://64.media.tumblr.com/7360b1f05aa71968dc4d3b9c8e8a7e05/tumblr_psp8egqv981tbznd1o1_500.gif" width="180px" />
+<img align="right" alt="Parineeth Gamer Style" width="190" style="border-radius: 10px;" src="https://gactfoundation.org/wp-content/uploads/2024/08/Default_create_a_professional_Image_of_a_gamer_who_is_masterm_2.jpg">
 
 - 💻 I work with **HTML, CSS, JavaScript, Python**
 - 🧠 Currently diving into **AI/ML, TensorFlow**
-- 🛠️ Passionate about creating intuitive, intelligent UIs
-- 📧 Contact me: **parineeth19rs@gmail.com**
-- 🎥 Creating content using **AI tools on YouTube**
+- 🛠️ Passionate about creating intuitive, intelligent UIs  
+- 📧 Contact me: **parineeth19rs@gmail.com**  
+- 🎥 Creating content using **AI tools on YouTube**  
 - 💖 Dreaming of a tech-art-anime hybrid future
 
 ---
 
 ## 🎀 ~ 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 & 𝓣𝓸𝓸𝓵𝓼 ~ 🎀
-
-<div align="center">
-  <img src="https://media.tenor.com/yheo1GGu3FwAAAAC/cute-anime.gif" align="right" width="180px">
-</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -90,8 +91,6 @@
   <img src="https://media.tenor.com/uWYqArL2yZ0AAAAC/listening-music-anime.gif" width="250px" />
   <img src="https://media.tenor.com/P_LU8Xl9uAkAAAAC/anime-music.gif" width="250px" />
 </div>
-
-
 
 ---
 
