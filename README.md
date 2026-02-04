@@ -58,13 +58,25 @@
 
 ---
 
-## 📊 ~ 𝓜𝔂 𝓖𝓲𝓽𝓱𝓾𝓫 𝓢𝓽𝓪𝓽𝓼 ~ 📊
-
+## 📊 ~ 𝓖𝓲𝓽𝓱𝓾𝓫 𝓢𝓽𝓪𝓽𝓼 ~ 📊
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=parineeth2004&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=parineeth2004&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-</div>
 
+  <!-- GitHub Streak Stats -->
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=parineeth2004)](https://git.io/streak-stats)
+  &nbsp;&nbsp;&nbsp;
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=parineeth2004&theme=dark)](https://git.io/streak-stats)
+
+  <br><br>
+
+  <!-- Top Languages -->
+  [![GitHub Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=parineeth2004&theme=gruvbox)](https://github.com/parineeth2004)
+
+  <br><br>
+
+  <!-- Overall Stats -->
+  [![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parineeth2004&theme=gruvbox)](https://github.com/parineeth2004)
+
+</div>
 ---
 
 ## 💌 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓜𝓮 ~ 💌
